@@ -13292,13 +13292,13 @@
       "projectName": "RazorPagesMovie",
       "projectPath": "/Users/tat/Projects/Learner/RazorPagesMovie/RazorPagesMovie.csproj",
       "packagesPath": "/Users/tat/.nuget/packages/",
-      "outputPath": "/Users/tat/Projects/Learner/RazorPagesMovie/obj/",
+      "outputPath": "/Users/tat/Projects/Learner/RazorPagesMovie/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/tat/.nuget/NuGet/NuGet.Config"
+        "/Users/tat/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -13323,8 +13323,7 @@
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.2.0, )",
-            "autoReferenced": true
+            "version": "[2.2.0, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
