@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{74E20C09-999F-4DBB-892C-245D06A1F717}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs">
     <Files>
-      <File FileName="InstagramAPIExplorer/Models/InstagramPost.cs" Line="14" Column="26" />
-      <File FileName="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml" Line="5" Column="1" />
-      <File FileName="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" Line="12" Column="23" NotebookId="1" />
+      <File FileName="InstagramAPIExplorer/Models/Post.cs" Line="26" Column="9" />
+      <File FileName="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml" Line="8" Column="1" />
+      <File FileName="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" Line="44" Column="1" NotebookId="1" />
       <File FileName="InstagramAPIExplorer/Controllers/Instagram.cs" Line="26" Column="15" NotebookId="1" />
+      <File FileName="InstagramAPIExplorer/Models/User.cs" Line="14" Column="26" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,9 +16,7 @@
               <Node name="Misc" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="InstagramMedia" expanded="True">
-                  <Node name="Index.cshtml.cs" selected="True" />
-                </Node>
+                <Node name="InstagramMedia" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -26,7 +25,7 @@
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State>
           <Value>response</Value>
-          <Value>Post</Value>
+          <Value>test</Value>
         </State>
       </Pad>
     </Pads>
@@ -36,7 +35,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/tat/Projects/Learner/InstagramAPIExplorer/InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" relfile="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" line="39" column="1" />
+      <Breakpoint file="/Users/tat/Projects/Learner/InstagramAPIExplorer/InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" relfile="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" line="43" column="41" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
