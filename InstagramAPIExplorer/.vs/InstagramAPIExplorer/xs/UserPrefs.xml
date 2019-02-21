@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{74E20C09-999F-4DBB-892C-245D06A1F717}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs">
+    <Files>
+      <File FileName="InstagramAPIExplorer/Models/InstagramPost.cs" Line="14" Column="26" />
+      <File FileName="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml" Line="5" Column="1" />
+      <File FileName="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" Line="12" Column="23" NotebookId="1" />
+      <File FileName="InstagramAPIExplorer/Controllers/Instagram.cs" Line="26" Column="15" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstagramAPIExplorer" expanded="True">
+            <Node name="InstagramAPIExplorer" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Misc" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="InstagramMedia" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>response</Value>
+          <Value>Post</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InstagramAPIExplorer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/tat/Projects/Learner/InstagramAPIExplorer/InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" relfile="InstagramAPIExplorer/Pages/InstagramMedia/Index.cshtml.cs" line="39" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
